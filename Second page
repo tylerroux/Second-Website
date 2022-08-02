@@ -1,0 +1,55 @@
+<!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":"1"},"color":{"text":"#000000"}},"fontSize":"large"} -->
+<h1 class="has-text-color has-large-font-size" style="color:#000000;line-height:1">Pros</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"color":{"text":"#3c3f40"}}} -->
+<ul class="has-text-color" style="color:#3c3f40"><li>They are made for the track as well as the drag strip. </li><li>They have a great aesthetic appeal.</li><li>Smooth driving car.</li><li>Sounds great.</li><li>Great handling if you know how to drive.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"textAlign":"left","style":{"typography":{"lineHeight":"1"},"color":{"text":"#000000"}},"className":"has-large-font-size","fontSize":"large"} -->
+<h2 class="has-text-align-left has-large-font-size has-text-color" style="color:#000000;line-height:1">Cons</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":1,"style":{"color":{"text":"#3c3f40"}}} -->
+<ol start="1" class="has-text-color" style="color:#3c3f40"><li>Can only get in a 4 cylinder and 8 cylinder.<ol><li>No 6 cylinder which would make good power and get good gas mileage.</li></ol></li><li>Higher prices than the competitor which is a Camaro.<ol><li>Camaro is cheaper.</li><li>The Camaro has more options than the mustang. </li></ol></li><li>Harder to handle for a newer driver.</li><li>Has bad reputation of going sideways.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:table {"style":{"color":{"background":"#e9fbe5"}},"className":"is-style-regular"} -->
+<figure class="wp-block-table is-style-regular"><table class="has-background" style="background-color:#e9fbe5"><tbody><tr><td class="has-text-align-center" data-align="center">4 Cylinder </td><td class="has-text-align-center" data-align="center">8 Cylinder </td></tr><tr><td class="has-text-align-center" data-align="center">Horsepower: 310 - 330</td><td class="has-text-align-center" data-align="center">Horsepower: 460 - 760</td></tr><tr><td class="has-text-align-center" data-align="center">Torque: 350 lb-ft</td><td class="has-text-align-center" data-align="center">Torque: 420 - 625 lb-ft</td></tr><tr><td class="has-text-align-center" data-align="center">Top speed: 121 - 155 mph</td><td class="has-text-align-center" data-align="center">Top speed: 155 - 180 mph</td></tr></tbody></table></figure>
+<!-- /wp:table --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:table {"hasFixedLayout":true,"style":{"color":{"background":"#e7f5fe"}},"className":"is-style-stripes"} -->
+<figure class="wp-block-table is-style-stripes"><table class="has-background has-fixed-layout" style="background-color:#e7f5fe"><thead><tr><th class="has-text-align-center" data-align="center"> </th><th class="has-text-align-center" data-align="center"> </th><th class="has-text-align-center" data-align="center">Specs </th><th class="has-text-align-center" data-align="center"> </th><th class="has-text-align-center" data-align="center"> </th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">Ecoboost</td><td class="has-text-align-center" data-align="center">2.3L turbo</td><td class="has-text-align-center" data-align="center">310 hp</td><td class="has-text-align-center" data-align="center">350 lb-ft</td><td class="has-text-align-center" data-align="center">21/32 mpg</td></tr><tr><td class="has-text-align-center" data-align="center">Ecoboost high performance</td><td class="has-text-align-center" data-align="center">2.3L bigger turbo</td><td class="has-text-align-center" data-align="center">330 hp</td><td class="has-text-align-center" data-align="center">350 lb-ft</td><td class="has-text-align-center" data-align="center">21/32 mpg</td></tr><tr><td class="has-text-align-center" data-align="center">Gt</td><td class="has-text-align-center" data-align="center">5.0L Coyote</td><td class="has-text-align-center" data-align="center">460 hp</td><td class="has-text-align-center" data-align="center">420 lb-ft</td><td class="has-text-align-center" data-align="center">16/25 mpg</td></tr><tr><td class="has-text-align-center" data-align="center">Bullitt</td><td class="has-text-align-center" data-align="center">5.0L Coyote</td><td class="has-text-align-center" data-align="center">480 hp</td><td class="has-text-align-center" data-align="center">420 lb-ft</td><td class="has-text-align-center" data-align="center">16/25 mpg</td></tr><tr><td class="has-text-align-center" data-align="center">GT350</td><td class="has-text-align-center" data-align="center">5.2L NA</td><td class="has-text-align-center" data-align="center">526 hp</td><td class="has-text-align-center" data-align="center">429 lb-ft</td><td class="has-text-align-center" data-align="center">14/24 mpg</td></tr><tr><td class="has-text-align-center" data-align="center">GT500</td><td class="has-text-align-center" data-align="center">5.2L supercharged</td><td class="has-text-align-center" data-align="center">760 hp</td><td class="has-text-align-center" data-align="center">625 lb-ft</td><td class="has-text-align-center" data-align="center">12/18 mpg</td></tr></tbody></table><figcaption class="wp-element-caption">From cars.usnews.com/cars-trucks/ford/mustang.</figcaption></figure>
+<!-- /wp:table -->
+
+<!-- wp:jetpack/contact-form {"subject":"A new registration from your website","to":"tjroux@uncg.edu"} -->
+<div class="wp-block-jetpack-contact-form"><!-- wp:jetpack/field-name {"required":true} /-->
+
+<!-- wp:jetpack/field-telephone {"label":"Age"} /-->
+
+<!-- wp:jetpack/field-text {"label":"Vehicle make, model, and year","required":true} /-->
+
+<!-- wp:jetpack/field-checkbox-multiple {"label":"Modifications already done to your car?","required":true,"options":["Tint","Exhaust","Wheels","Performance"]} /-->
+
+<!-- wp:jetpack/field-select {"label":"What is the next modification to your car?","required":true,"options":["Exhaust ","Tint","Wheels","Performance","Lighting","Cosmetics","Suspension"]} /-->
+
+<!-- wp:jetpack/field-radio {"label":"When will you be doing your next modification?","options":["Less than a month","1-3 months","3 or more months"]} /-->
+
+<!-- wp:jetpack/field-textarea {"label":"Other Details"} /-->
+
+<!-- wp:jetpack/button {"element":"button","text":"Submit","textColor":"secondary","customBackgroundColor":"#e78d17","borderRadius":50,"align":"left","lock":{"move":false,"remove":true}} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/contact-form -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
