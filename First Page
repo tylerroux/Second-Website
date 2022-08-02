@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>This will be about the Ford Mustang. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"full","id":95,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignfull size-large"><img src="https://thewildchariot.files.wordpress.com/2020/11/mustang-family-photo.jpg?w=1024" alt="" class="wp-image-95"/><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">2021 Mustang Lineup. From digital trends.</mark></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:jetpack/tiled-gallery {"align":"full","columnWidths":[[43.17917,56.82083]],"ids":[93,94],"roundedCorners":20} -->
+<div class="wp-block-jetpack-tiled-gallery alignfull is-style-rectangular has-rounded-corners-20"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:43.17917%"><figure class="tiled-gallery__item"><img alt="" data-height="948" data-id="93" data-link="https://thewildchariot.wordpress.com/widebody-ford-mustang-1000hp/" data-url="https://thewildchariot.files.wordpress.com/2020/11/widebody-ford-mustang-1000hp.jpg" data-width="1080" src="https://thewildchariot.files.wordpress.com/2020/11/widebody-ford-mustang-1000hp.jpg" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:56.82083%"><figure class="tiled-gallery__item"><img alt="" data-height="490" data-id="94" data-link="https://thewildchariot.wordpress.com/25d589907400857a9ad08e5cd38dc843/" data-url="https://thewildchariot.files.wordpress.com/2020/11/25d589907400857a9ad08e5cd38dc843.jpg" data-width="735" src="https://thewildchariot.files.wordpress.com/2020/11/25d589907400857a9ad08e5cd38dc843.jpg" data-amp-layout="responsive"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"0","fontSize":10}}} -->
+<p class="has-text-align-center" style="font-size:10px;line-height:0"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">Pictures above are from TechEBlog and Pinterest.</mark></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":99,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://thewildchariot.files.wordpress.com/2020/11/multiple-colors.jpg?w=640" alt="" class="wp-image-99"/><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">Wrapped Mustang Gt. From Pinterest.</mark></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Some specs are at: <a href="https://thewildchariot.wordpress.com/second-page/">https://thewildchariot.wordpress.com/second-page/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>More details are at: <a rel="noreferrer noopener" href="https://www.caranddriver.com/ford/mustang-2020" target="_blank">https://www.caranddriver.com/ford/mustang-2020</a></p>
+<!-- /wp:paragraph -->
